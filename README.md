@@ -45,4 +45,4 @@ with open("rumbling.txt","r") as fp:
 
 
 ## RESULT:
-Thus the program is written to find the word count from a text.
+Thus the program is written to find the word count from a text
